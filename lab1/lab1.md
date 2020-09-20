@@ -19,7 +19,7 @@
     8.193799167810763x - 5.475517339351719
 
 График
-![plot1](https://bitbucket.org/stdstring/data-processing-methods/src/master/lab1/img/lin_plot.png)
+![plot1](img/lin_plot.png)
 
 
 ### Квадратичный полином Лагранжа
@@ -33,7 +33,7 @@
     11.853302678920759x^2 - 12.54948052030056x + 3.414459669838851
 
 График
-![plot2](https://bitbucket.org/stdstring/data-processing-methods/src/master/lab1/img/quadr_plot.png)
+![plot2](img/quadr_plot.png)
 
 ### Полином Ньютона
 
@@ -41,8 +41,8 @@
     6.796386792644592x^4 - 6.1866444972134005x^3 + 2.4106731979351212x^2 - 0.3021336649072687x + 3
 
 График
-![plot3](https://bitbucket.org/stdstring/data-processing-methods/src/master/lab1/img/newton_plot.png)
+![plot3](img/newton_plot.png)
 
 ### Исследование погрешности
-![eps](https://bitbucket.org/stdstring/data-processing-methods/src/master/lab1/img/eps.jpg)
+![eps](img/eps.jpg)
 
