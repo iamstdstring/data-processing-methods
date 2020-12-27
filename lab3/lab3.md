@@ -10,7 +10,7 @@
 
 На рисунке синий график - зашумленная исходная функция, красный график - линейный полином, зеленый график - квадратичный полином
 
-![plot1](https://bitbucket.org/stdstring/data-processing-methods/raw/3ff387d11abb4ce726b4891aba6c6480857f687b/lab1/img/lin_plot.png)
+![plot1](https://github.com/iamstdstring/data-processing-methods/blob/master/lab3/img/plot.png?raw=true)
 
 
 Ошибка
